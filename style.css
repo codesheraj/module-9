@@ -133,6 +133,38 @@ color: #;
     margin-bottom: 32px;
 }
 
+/* enjoooooooy */
+
+.love-enjoy{
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    gap: 146px;
+}
+#enjoy-title{
+     border-left: 5px solid #FF900E;
+    padding-left: 21px ;
+}
+.enjoy-card{
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.enjoy-container-text{
+    margin-bottom: 24px;
+}
+
+#Experience-bage {
+    font-size: 1.5em;
+    padding: 45px 42px;
+    margin-top: -100px;
+    margin-left: -100px;
+}
+.yers{
+    font-size: 4em;
+    font-weight: 600;
+}
+
 /* some fact */
 
 .some-fact{ max-width: 1440px;
@@ -231,6 +263,24 @@ color: #;
     grid-template-columns: repeat(1, 1fr);
     gap: 10px;
 }
+
+.love-enjoy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+.love-enjoy img{
+    width: 100%;
+}
+#Experience-bage {
+    font-size: 1.5em;
+    padding: 45px 42px;
+    margin-top: 10px;
+    margin-left: 10px; 
+    
+}
+    
 
 .fact-container {
    display: grid;
